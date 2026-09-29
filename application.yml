@@ -1,3 +1,2 @@
-spring:
-  main:
-    banner-mode: off
+demo:
+  message: "Hihi"
